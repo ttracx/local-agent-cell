@@ -1,6 +1,6 @@
 ---
 title: Local Agent Cell
-emoji: "🟩"
+emoji: 🟢
 colorFrom: green
 colorTo: gray
 sdk: gradio
@@ -8,7 +8,7 @@ sdk_version: 5.49.1
 app_file: app.py
 pinned: false
 license: apache-2.0
-short_description: Host-plane agent cell. Sentinel denies egress. No hosted planner.
+short_description: Sentinel admits or denies. No hosted planner.
 ---
 
 # Local Agent Cell
